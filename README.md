@@ -96,11 +96,11 @@ This task involves implementing authentication with Django Framework and SQLite3
 
 - Home Page ![Home Page]![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/6ecf15b3-e9cd-4bd2-a07a-7aae9d4112bd)
 )
-- SignUp Page with validation ![SignUp Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/2ca81cec-14c3-4b13-b21e-af7b2e3afda3)
+- SignUp Page with validation ![SignUp Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/2ca81cec-14c3-4b13-b21e-af7b2e3afda3 )
 )
-- Login Page ![Login Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/5b977403-9eaf-47c9-b82e-49825f869171)
+- Login Page ![Login Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/5b977403-9eaf-47c9-b82e-49825f869171 )
 )
-- After Login Home Page ![After Login Home Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/9e5f75f8-5043-4dc9-b1a3-d1e5c5653f73)
+- After Login Home Page ![After Login Home Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/9e5f75f8-5043-4dc9-b1a3-d1e5c5653f73 )
 )
 
 ## Demo
