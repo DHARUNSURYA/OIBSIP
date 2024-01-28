@@ -69,7 +69,7 @@ This task involves creating a ToDo list using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[ToDo List Demo](https://www.linkedin.com/feed/update/urn:li:activity:your_todo_list_demo_link/)
+[ToDo List Demo]([https://www.linkedin.com/feed/update/urn:li:activity:your_todo_list_demo_link/](https://www.linkedin.com/feed/update/urn:li:activity:7157389157181321217/))
 
 ## Usage
 
@@ -105,7 +105,7 @@ This task involves implementing authentication with Django Framework and SQLite3
 
 ## Demo
 
-[Authentication Demo](https://www.linkedin.com/feed/update/urn:li:activity:your_auth_demo_link/)
+[Authentication Demo]([https://www.linkedin.com/feed/update/urn:li:activity:your_auth_demo_link/](https://www.linkedin.com/feed/update/urn:li:activity:7157394104765583360/))
 
 ## Usage
 
