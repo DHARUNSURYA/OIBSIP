@@ -1,4 +1,4 @@
-# Calculator Task
+# Calculator Level 2 Task_1
 
 This task involves creating a simple calculator using HTML, CSS, and JavaScript.
 
@@ -10,7 +10,7 @@ This task involves creating a simple calculator using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Calculator Demo](https://example.com/calculator_demo.png)
+![Calculator Demo](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/263a2cff-8213-4164-ab64-a9c0f764e55a))
 
 ## Demo
 
@@ -28,7 +28,7 @@ This calculator is part of the OasisInfobyte internship Level-2 tasks.
 For more details about the internship, visit [OasisInfobyte](https://www.linkedin.com/company/oasisinfobyte/).
 
 
-# Trubit Page Task
+# Trubit Page Task Level 2 Task_2
 
 This task involves [description of the Trubit Page task].
 
@@ -54,7 +54,7 @@ This task is part of the OasisInfobyte internship Level-2 tasks.
 
 For more details about the internship, visit [OasisInfobyte](https://www.linkedin.com/company/oasisinfobyte/).
 
-# ToDo List Task
+# ToDo List Task_3 Level 2
 
 This task involves creating a ToDo list using HTML, CSS, and JavaScript.
 
@@ -65,7 +65,7 @@ This task involves creating a ToDo list using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![ToDo List Demo](https://example.com/todo_list_demo.png)
+![ToDo List Demo]![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/d1f61ca9-63aa-4c13-b715-ad23ada10dc0))
 
 ## Demo
 
@@ -83,7 +83,7 @@ This ToDo list is part of the OasisInfobyte internship Level-2 tasks.
 For more details about the internship, visit [OasisInfobyte](https://www.linkedin.com/company/oasisinfobyte/).
 
 
-# Django Authentication Task
+# Django Authentication Level 2 Task_4
 
 This task involves implementing authentication with Django Framework and SQLite3 database.
 
@@ -94,10 +94,14 @@ This task involves implementing authentication with Django Framework and SQLite3
 
 ## Screenshots
 
-- Home Page ![Home Page](https://example.com/home_page.png)
-- SignUp Page with validation ![SignUp Page](https://example.com/signup_page.png)
-- Login Page ![Login Page](https://example.com/login_page.png)
-- After Login Home Page ![After Login Home Page](https://example.com/after_login_home_page.png)
+- Home Page ![Home Page]![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/6ecf15b3-e9cd-4bd2-a07a-7aae9d4112bd)
+)
+- SignUp Page with validation ![SignUp Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/2ca81cec-14c3-4b13-b21e-af7b2e3afda3)
+)
+- Login Page ![Login Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/5b977403-9eaf-47c9-b82e-49825f869171)
+)
+- After Login Home Page ![After Login Home Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/9e5f75f8-5043-4dc9-b1a3-d1e5c5653f73)
+)
 
 ## Demo
 
