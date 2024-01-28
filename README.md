@@ -10,7 +10,7 @@ This task involves creating a simple calculator using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Calculator Demo](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/263a2cff-8213-4164-ab64-a9c0f764e55a))
+![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/b6f60948-12f7-4558-820d-52fd51bb0b37)
 
 ## Demo
 
@@ -94,14 +94,14 @@ This task involves implementing authentication with Django Framework and SQLite3
 
 ## Screenshots
 
-- Home Page ![Home Page]![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/6ecf15b3-e9cd-4bd2-a07a-7aae9d4112bd)
-)
-- SignUp Page with validation ![SignUp Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/2ca81cec-14c3-4b13-b21e-af7b2e3afda3 )
-)
-- Login Page ![Login Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/5b977403-9eaf-47c9-b82e-49825f869171 )
-)
-- After Login Home Page ![After Login Home Page](![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/9e5f75f8-5043-4dc9-b1a3-d1e5c5653f73 )
-)
+- Home Page ![Home Page]![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/6ecf15b3-e9cd-4bd2-a07a-7aae9d4112bd))
+- SignUp Page with validation ![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/f90ff5bd-95fa-4689-8fd3-0e206b4173cd)
+
+- Login Page ![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/7696532b-c4bc-4e6d-88ff-c77cba3a048f)
+
+- After Login Home Page ![image](https://github.com/DHARUNSURYA/OIBSIP/assets/121680349/70b932a9-d4f1-4bf7-a2c2-bfed03295314)
+
+
 
 ## Demo
 
